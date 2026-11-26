@@ -1,2 +1,2 @@
 # Практика 3
-https://rcl99.github.io/wilberries/
+https://rcl99.github.io/wilberries-js/
